@@ -1,0 +1,15 @@
+D:\3 сем\oib_8laba\bin\Debug\net6.0\oib_8laba.exe
+D:\3 сем\oib_8laba\bin\Debug\net6.0\oib_8laba.deps.json
+D:\3 сем\oib_8laba\bin\Debug\net6.0\oib_8laba.runtimeconfig.json
+D:\3 сем\oib_8laba\bin\Debug\net6.0\oib_8laba.dll
+D:\3 сем\oib_8laba\bin\Debug\net6.0\oib_8laba.pdb
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.csproj.AssemblyReference.cache
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.AssemblyInfoInputs.cache
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.AssemblyInfo.cs
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.csproj.CoreCompileInputs.cache
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.dll
+D:\3 сем\oib_8laba\obj\Debug\net6.0\refint\oib_8laba.dll
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.pdb
+D:\3 сем\oib_8laba\obj\Debug\net6.0\oib_8laba.genruntimeconfig.cache
+D:\3 сем\oib_8laba\obj\Debug\net6.0\ref\oib_8laba.dll
